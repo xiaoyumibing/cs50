@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: The fastest way to search for sorted.txt is the bubble sort
+
+sort2 uses: merge sort
+
+How do you know?: The fastest way to search for random.txt is the merge sort
+
+sort3 uses: selection sort
+
+How do you know?: Either way, it's not fast
