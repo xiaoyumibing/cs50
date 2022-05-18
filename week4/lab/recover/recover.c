@@ -2,7 +2,7 @@
 // 1.open memory card
 // 2.look for beginning of a JEPG
 // 3.open a new JEPG file
-// 4.write 512 bytes until a new JEPG is found
+// 4.write 512 bytes until a new another JEPG is found
 
 // more detail in JEPG:
 // 1.the start of a JPEG usually demarks the end of another
